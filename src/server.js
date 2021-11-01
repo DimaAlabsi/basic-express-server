@@ -15,7 +15,7 @@ app.get('/status', (req, res) => {
 
       res.status(200).send({
 
-        "domain1": "",
+        "domain1": "dimaalabsibasic-express-server.herokuapp.com",
         "status": "running",
         "port": 8080
 
