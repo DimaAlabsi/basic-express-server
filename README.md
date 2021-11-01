@@ -43,8 +43,8 @@ dimaalabsibasic-express-server.herokuapp.com/
 
 ## pull request
 
-* [last pull request](https://github.com/DimaAlabsi/server-deployment-practice/pull/4)
- github.com/DimaAlabsi/server-deployment-practice/pull/4
+* [last pull request](https://github.com/DimaAlabsi/basic-express-server/pull/2)
+github.com/DimaAlabsi/basic-express-server/pull/2
 
 
 ### CI CD: Continuos Intergration and Continuous Deployment
