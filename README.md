@@ -1,15 +1,14 @@
 # basic-express-server
 
-# LAB - 01
- # Deployment Test
+
 ## Author: Dima Alabsi
 
-* submission PR
 
 ## Setup
  .env requirements
-* PORT - 8080
+* PORT = 8080
 ## Running the app
+
 * npm run dev
 
 * Endpoint:  **/status** 
@@ -18,7 +17,7 @@
 
 {
 
-  ***"domain": ""***
+  ***"domain": "dimaalabsibasic-express-server.herokuapp.com/"***
 
   ***"status": "running",***
 
@@ -34,20 +33,31 @@
 
 ## Heroku applications 
 
-*  [dev branch](https://dimaalabsi-server-deploy-dev.herokuapp.com)    dimaalabsi-server-deploy-dev.herokuapp.com
-*   [main branch](https://dimaalabsi-server-deploy-prod.herokuapp.com)  dimaalabsi-server-deploy-prod.herokuapp.com
+*   [main branch](https://dimaalabsibasic-express-server.herokuapp.com/)  
+dimaalabsibasic-express-server.herokuapp.com/
 
 ## Github actions
 
-*    [actions](https://github.com/DimaAlabsi/server-deployment-practice/actions)  github.com/DimaAlabsi/server-deployment-practice/actions
-  
+*    [actions](https://github.com/DimaAlabsi/basic-express-server/actions)      
+  github.com/DimaAlabsi/basic-express-server/actions
 
 ## pull request
 
-* [last pull request](https://github.com/DimaAlabsi/server-deployment-practice/pull/4) github.com/DimaAlabsi/server-deployment-practice/pull/4
+* [last pull request](https://github.com/DimaAlabsi/server-deployment-practice/pull/4)
+ github.com/DimaAlabsi/server-deployment-practice/pull/4
+
+
+### CI CD: Continuos Intergration and Continuous Deployment
+
+### deppendicies vs devDependiceis
+
+* "dependencies": Packages required by your application in production and deployment.
+
+* "devDependencies": Packages that are only needed for local development and testing.(supertest, jest)
 
 ## UML
 
-![notes](img/notes2.png)
+![notes](/uml-img/lab2.png)
 
-![notes](/img/notes.png)
+
+
